@@ -20,11 +20,9 @@ Este projeto implementa um pipeline ETL (Extract, Transform, Load) que extrai da
 │   ├── extract.py          # Extração de dados
 │   ├── transform.py        # Transformação de dados
 │   ├── load.py             # Carga de dados
-│   ├── config.py           # Configuração do projeto
 │   └── main.py             # Execução do pipeline ETL
-├── requirements.txt        # Dependências do projeto
 ├── README.md               # Documentação
-└── .env                    # Variáveis de ambiente
+
 ```
 
 ## Repositório:
