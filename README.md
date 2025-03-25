@@ -17,7 +17,7 @@ Este projeto implementa um pipeline ETL (Extract, Transform, Load) que extrai da
 .
 ├── data/                   # Pasta para armazenar arquivos Excel
 ├── scripts/                # Scripts ETL
-│   ├── extract.py          # Extração de dados
+│   ├── extract.py          # Extração de dados (Conexão e ingestão via Glue)
 │   ├── transform.py        # Transformação de dados
 │   ├── load.py             # Carga de dados
 │   └── main.py             # Execução do pipeline ETL
