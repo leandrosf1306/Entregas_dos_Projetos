@@ -10,3 +10,132 @@
 | 1742917606112 | [033cee87-ea90-4328-93f3-3f09bdc0585f] INFO : ADD: 1                                                                                                                                                                                                                                                                                     |
 | 1742917682865 | [033cee87-ea90-4328-93f3-3f09bdc0585f] BENCHMARK : Crawler has finished running and is in state READY                                                                                                                                                                                                                                    |
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2025-03-25T13:16:21.075Z
+[88b8f486-99e0-4d22-9053-2d59beae7a75] BENCHMARK : Running Start Crawl for Crawler raw_projetos
+
+[88b8f486-99e0-4d22-9053-2d59beae7a75] BENCHMARK : Running Start Crawl for Crawler raw_projetos
+2025-03-25T13:17:00.033Z
+[88b8f486-99e0-4d22-9053-2d59beae7a75] BENCHMARK : Classification complete, writing results to database raw_projetos
+
+[88b8f486-99e0-4d22-9053-2d59beae7a75] BENCHMARK : Classification complete, writing results to database raw_projetos
+2025-03-25T13:17:00.062Z
+[88b8f486-99e0-4d22-9053-2d59beae7a75] INFO : Crawler configured with Configuration 
+{
+    "Version": 1,
+    "CreatePartitionIndex": true
+}
+ and SchemaChangePolicy 
+{
+    "UpdateBehavior": "UPDATE_IN_DATABASE",
+    "DeleteBehavior": "DEPRECATE_IN_DATABASE"
+}
+. Note that values in the Configuration override values in the SchemaChangePolicy for S3 Targets.
+
+[88b8f486-99e0-4d22-9053-2d59beae7a75] INFO : Crawler configured with Configuration {"Version":1.0,"CreatePartitionIndex":true} and SchemaChangePolicy {"UpdateBehavior":"UPDATE_IN_DATABASE","DeleteBehavior":"DEPRECATE_IN_DATABASE"}. Note that values in the Configuration override values in the SchemaChangePolicy for S3 Targets.
+2025-03-25T13:17:01.679Z
+[88b8f486-99e0-4d22-9053-2d59beae7a75] INFO : Created table ps_dados_projetos_xlsx in database raw_projetos
+
+[88b8f486-99e0-4d22-9053-2d59beae7a75] INFO : Created table ps_dados_projetos_xlsx in database raw_projetos
+2025-03-25T13:17:03.005Z
+[88b8f486-99e0-4d22-9053-2d59beae7a75] BENCHMARK : Finished writing to Catalog
+
+[88b8f486-99e0-4d22-9053-2d59beae7a75] BENCHMARK : Finished writing to Catalog
+2025-03-25T13:17:03.036Z
+[88b8f486-99e0-4d22-9053-2d59beae7a75] INFO : Run Summary For TABLE:
+
+[88b8f486-99e0-4d22-9053-2d59beae7a75] INFO : Run Summary For TABLE:
+2025-03-25T13:17:03.038Z
+[88b8f486-99e0-4d22-9053-2d59beae7a75] INFO : ADD: 1
+
+[88b8f486-99e0-4d22-9053-2d59beae7a75] INFO : ADD: 1
+2025-03-25T13:18:16.754Z
+[88b8f486-99e0-4d22-9053-2d59beae7a75] BENCHMARK : Crawler has finished running and is in state READY
+
+[88b8f486-99e0-4d22-9053-2d59beae7a75] BENCHMARK : Crawler has finished running and is in state READY
+2025-03-25T14:41:24.388Z
+[e3022040-88a5-48fb-8876-4346aad0fe5b] BENCHMARK : Running Start Crawl for Crawler raw_projetos
+
+[e3022040-88a5-48fb-8876-4346aad0fe5b] BENCHMARK : Running Start Crawl for Crawler raw_projetos
+2025-03-25T14:41:52.910Z
+[e3022040-88a5-48fb-8876-4346aad0fe5b] BENCHMARK : Classification complete, writing results to database raw_projetos
+
+[e3022040-88a5-48fb-8876-4346aad0fe5b] BENCHMARK : Classification complete, writing results to database raw_projetos
+2025-03-25T14:41:52.925Z
+[e3022040-88a5-48fb-8876-4346aad0fe5b] INFO : Crawler configured with Configuration 
+{
+    "Version": 1,
+    "CreatePartitionIndex": true
+}
+ and SchemaChangePolicy 
+{
+    "UpdateBehavior": "UPDATE_IN_DATABASE",
+    "DeleteBehavior": "DEPRECATE_IN_DATABASE"
+}
+. Note that values in the Configuration override values in the SchemaChangePolicy for S3 Targets.
+
+[e3022040-88a5-48fb-8876-4346aad0fe5b] INFO : Crawler configured with Configuration {"Version":1.0,"CreatePartitionIndex":true} and SchemaChangePolicy {"UpdateBehavior":"UPDATE_IN_DATABASE","DeleteBehavior":"DEPRECATE_IN_DATABASE"}. Note that values in the Configuration override values in the SchemaChangePolicy for S3 Targets.
+2025-03-25T14:42:04.370Z
+[e3022040-88a5-48fb-8876-4346aad0fe5b] INFO : Created table ps_dados_projetos_csv in database raw_projetos
+
+[e3022040-88a5-48fb-8876-4346aad0fe5b] INFO : Created table ps_dados_projetos_csv in database raw_projetos
+2025-03-25T14:42:05.510Z
+[e3022040-88a5-48fb-8876-4346aad0fe5b] BENCHMARK : Finished writing to Catalog
+
+[e3022040-88a5-48fb-8876-4346aad0fe5b] BENCHMARK : Finished writing to Catalog
+2025-03-25T14:42:05.529Z
+[e3022040-88a5-48fb-8876-4346aad0fe5b] INFO : Run Summary For TABLE:
+
+[e3022040-88a5-48fb-8876-4346aad0fe5b] INFO : Run Summary For TABLE:
+2025-03-25T14:42:05.530Z
+[e3022040-88a5-48fb-8876-4346aad0fe5b] INFO : ADD: 1
+
+[e3022040-88a5-48fb-8876-4346aad0fe5b] INFO : ADD: 1
+2025-03-25T14:43:19.134Z
+[e3022040-88a5-48fb-8876-4346aad0fe5b] BENCHMARK : Crawler has finished running and is in state READY
+
+[e3022040-88a5-48fb-8876-4346aad0fe5b] BENCHMARK : Crawler has finished running and is in state READY
+2025-03-25T15:46:04.624Z
+[033cee87-ea90-4328-93f3-3f09bdc0585f] BENCHMARK : Running Start Crawl for Crawler raw_projetos
+
+[033cee87-ea90-4328-93f3-3f09bdc0585f] BENCHMARK : Running Start Crawl for Crawler raw_projetos
+2025-03-25T15:46:33.622Z
+[033cee87-ea90-4328-93f3-3f09bdc0585f] BENCHMARK : Classification complete, writing results to database raw_projetos
+
+[033cee87-ea90-4328-93f3-3f09bdc0585f] BENCHMARK : Classification complete, writing results to database raw_projetos
+2025-03-25T15:46:33.640Z
+[033cee87-ea90-4328-93f3-3f09bdc0585f] INFO : Crawler configured with Configuration 
+{
+    "Version": 1,
+    "CreatePartitionIndex": true
+}
+ and SchemaChangePolicy 
+{
+    "UpdateBehavior": "UPDATE_IN_DATABASE",
+    "DeleteBehavior": "DEPRECATE_IN_DATABASE"
+}
+. Note that values in the Configuration override values in the SchemaChangePolicy for S3 Targets.
+
+[033cee87-ea90-4328-93f3-3f09bdc0585f] INFO : Crawler configured with Configuration {"Version":1.0,"CreatePartitionIndex":true} and SchemaChangePolicy {"UpdateBehavior":"UPDATE_IN_DATABASE","DeleteBehavior":"DEPRECATE_IN_DATABASE"}. Note that values in the Configuration override values in the SchemaChangePolicy for S3 Targets.
+2025-03-25T15:46:44.954Z
+[033cee87-ea90-4328-93f3-3f09bdc0585f] INFO : Created table etl_1_csv in database raw_projetos
+
+[033cee87-ea90-4328-93f3-3f09bdc0585f] INFO : Created table etl_1_csv in database raw_projetos
+2025-03-25T15:46:46.092Z
+[033cee87-ea90-4328-93f3-3f09bdc0585f] BENCHMARK : Finished writing to Catalog
+
+[033cee87-ea90-4328-93f3-3f09bdc0585f] BENCHMARK : Finished writing to Catalog
+2025-03-25T15:46:46.111Z
+[033cee87-ea90-4328-93f3-3f09bdc0585f] INFO : Run Summary For TABLE:
+
+[033cee87-ea90-4328-93f3-3f09bdc0585f] INFO : Run Summary For TABLE:
+2025-03-25T15:46:46.112Z
+[033cee87-ea90-4328-93f3-3f09bdc0585f] INFO : ADD: 1
+
+[033cee87-ea90-4328-93f3-3f09bdc0585f] INFO : ADD: 1
+2025-03-25T15:48:02.865Z
+[033cee87-ea90-4328-93f3-3f09bdc0585f] BENCHMARK : Crawler has finished running and is in state READY
+
+[033cee87-ea90-4328-93f3-3f09bdc0585f] BENCHMARK : Crawler has finished running and is in state READY
+ 
