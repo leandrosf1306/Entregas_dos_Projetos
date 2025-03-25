@@ -27,7 +27,7 @@ Este projeto implementa um pipeline ETL (Extract, Transform, Load) que extrai da
 
 ## Repositório:
    
-   git clone https://github.com/seu-usuario/etl-api-excel.git
+   git clone https://github.com/leandrosf1306/Entregas_dos_Projetos.git
    cd Entregas_dos_Projetos
    
 
